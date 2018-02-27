@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-js-course",
+  "version": "1.0.0",
+  "description": "A Blockchain JS project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EkaterinaSava/blockchain-js-course.git"
+  },
+  "author": "Kate Sava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EkaterinaSava/blockchain-js-course/issues"
+  },
+  "homepage": "https://github.com/EkaterinaSava/blockchain-js-course#readme",
+  "devDependencies": {
+    "jayson": "^2.0.5"
+  }
+}
